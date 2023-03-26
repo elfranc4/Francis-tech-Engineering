@@ -16,4 +16,11 @@ pipeline{
             echo "welcome to Jenkins"
         }
     }
+    stage('4-francis-check'){
+        steps{
+            
+        }
+    }
+            
+
 }
