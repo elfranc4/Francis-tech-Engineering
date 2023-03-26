@@ -13,7 +13,7 @@ pipeline{
         }
         stage('3-welcomepage'){
 
-             echo "welcome to Jenkins"
+            echo "welcome to Jenkins"
         }
     }
 }
