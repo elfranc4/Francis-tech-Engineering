@@ -16,3 +16,4 @@ pipeline{
              echo "welcome to Jenkins"
         }
     }
+}
