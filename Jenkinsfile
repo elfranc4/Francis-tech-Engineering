@@ -21,6 +21,11 @@ pipeline{
             
         }
     }
-            
+     stage(5-dwoncheck){
+        steps{
+            sh 'cat /etc/os-release'
+        }
+
+     }       
 
 }
